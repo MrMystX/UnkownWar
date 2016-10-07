@@ -31,7 +31,7 @@
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="-1" foreground="0" name="background1" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="background1" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="-1"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -63,21 +63,9 @@
     <instance objName="Wminion" x="1360" y="496" name="inst_ED38BF31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wminion" x="1648" y="496" name="inst_E8E7AF36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Wminion" x="1248" y="688" name="inst_FC1695C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="rplayer" x="672" y="384" name="inst_33671312" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
-  <tiles>
-    <tile bgName="background1" x="176" y="128" w="64" h="64" xo="0" yo="0" id="10000001" name="tile_626C51EA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="240" y="128" w="64" h="64" xo="0" yo="0" id="10000002" name="tile_DEB49366" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="240" y="64" w="64" h="64" xo="0" yo="0" id="10000003" name="tile_536433F1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="176" y="64" w="64" h="64" xo="0" yo="0" id="10000004" name="tile_E4DBAF9B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="112" y="128" w="64" h="64" xo="0" yo="0" id="10000006" name="tile_E3A029C6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="192" y="240" w="64" h="64" xo="0" yo="0" id="10000007" name="tile_2947F336" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="608" y="304" w="64" h="64" xo="0" yo="0" id="10000008" name="tile_84881732" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="512" y="160" w="64" h="64" xo="0" yo="0" id="10000009" name="tile_7C6B9645" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="256" y="432" w="64" h="64" xo="0" yo="0" id="10000010" name="tile_E867A39A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="592" y="528" w="64" h="64" xo="0" yo="0" id="10000011" name="tile_DC41342B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="752" y="272" w="64" h="64" xo="0" yo="0" id="10000012" name="tile_7FBC70C2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="background1" x="592" y="96" w="64" h="64" xo="0" yo="0" id="10000013" name="tile_9723CE34" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-  </tiles>
+  <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>

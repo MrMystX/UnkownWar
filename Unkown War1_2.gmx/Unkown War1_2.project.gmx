@@ -79,6 +79,7 @@
   <backgrounds name="background">
     <background>background\sandplanet</background>
     <background>background\background1</background>
+    <background>background\background3</background>
     <background>background\water</background>
   </backgrounds>
   <paths name="paths"/>
