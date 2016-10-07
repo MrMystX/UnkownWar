@@ -73,6 +73,7 @@
     <sprite>sprites\spr_goto</sprite>
     <sprite>sprites\spr_selector</sprite>
     <sprite>sprites\MovementIcon</sprite>
+    <sprite>sprites\sandbagtest1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\sandplanet</background>
@@ -104,6 +105,7 @@
       <object>objects\obj_goto</object>
       <object>objects\obj_draw_select_new</object>
     </objects>
+    <object>objects\object21</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
