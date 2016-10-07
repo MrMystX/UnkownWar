@@ -64,14 +64,6 @@
     <sprite>sprites\sprite45</sprite>
     <sprite>sprites\PLAYTEST</sprite>
     <sprite>sprites\BlueBloodSplat</sprite>
-    <sprite>sprites\spr_blue_ak</sprite>
-    <sprite>sprites\spr_blue_civ</sprite>
-    <sprite>sprites\spr_blue_dual</sprite>
-    <sprite>sprites\spr_blue_shotgun</sprite>
-    <sprite>sprites\spr_blue_uzi</sprite>
-    <sprite>sprites\spr_blue_worker</sprite>
-    <sprite>sprites\spr_goto</sprite>
-    <sprite>sprites\spr_selector</sprite>
     <sprite>sprites\MovementIcon</sprite>
     <sprite>sprites\sandbagtest1</sprite>
     <sprite>sprites\Warbond</sprite>
@@ -108,6 +100,7 @@
       <object>objects\obj_draw_select_new</object>
     </objects>
     <object>objects\WarBonds</object>
+    <object>objects\SandbagTEST</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
