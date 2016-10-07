@@ -74,7 +74,7 @@
     <sprite>sprites\spr_selector</sprite>
     <sprite>sprites\MovementIcon</sprite>
     <sprite>sprites\sandbagtest1</sprite>
-    <sprite>sprites\Warbond_looks</sprite>
+    <sprite>sprites\Warbond</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\sandplanet</background>
