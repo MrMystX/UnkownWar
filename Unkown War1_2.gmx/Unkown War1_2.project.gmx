@@ -69,10 +69,14 @@
     <sprite>sprites\Warbond</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\sandplanet</background>
-    <background>background\background1</background>
-    <background>background\background3</background>
     <background>background\water</background>
+    <background>background\sand_wet</background>
+    <background>background\sand_1</background>
+    <background>background\sand_2</background>
+    <background>background\dirt_1</background>
+    <background>background\dirt_2</background>
+    <background>background\dirt_3</background>
+    <background>background\grass_1</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
