@@ -72,7 +72,7 @@
     <sprite>sprites\rifle</sprite>
   </sprites>
   <backgrounds name="background">
-    <background>background\water</background>
+    <background>background\water_1</background>
     <background>background\sand_wet</background>
     <background>background\sand_1</background>
     <background>background\sand_2</background>
